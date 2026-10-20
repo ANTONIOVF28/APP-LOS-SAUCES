@@ -1,0 +1,9 @@
+{
+  "name": "LOS SAUCES - Gestión de eventos",
+  "short_name": "LOS SAUCES",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ed",
+  "theme_color": "#234b3a",
+  "description": "Administración de reservaciones y pagos del salón de eventos LOS SAUCES"
+}
